@@ -1,0 +1,1 @@
+docker run --name nginx-msg-github-page --rm -v /Users/u1/rj_msg_proj/msg365.github.com:/usr/share/nginx/html:ro -p 80:80 -d nginx
